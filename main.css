@@ -146,6 +146,10 @@ body {
   top: 35%;
   left: 35%;
 }
+.product-gallery .product-item .bgr-product-item .arrow .img {
+  height: 100%;
+  width: 100%;
+}
 .product-gallery .product-item .bgr-product-item:hover {
   opacity: 0.5;
 }
